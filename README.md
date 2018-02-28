@@ -1,7 +1,6 @@
 # Reflection 4
 ## 2/23/2018
-I was only here partially this week. This week was more a week of review for me. We discussed things that were talked about in computer fundamentals one such as binary and how t$
-
+This week we learned about how to code and learned more basic commands. We learned how to make folders inside of folders, and put files into that. We also started to learn how to put things on GitHub and post it on the website from putty.
 ---
 
 # Reflection 3
