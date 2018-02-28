@@ -1,6 +1,7 @@
 # Reflection 4
 ## 2/23/2018
 This week we learned about how to code and learned more basic commands. We learned how to make folders inside of folders, and put files into that. We also started to learn how to put things on GitHub and post it on the website from putty.
+
 ---
 
 # Reflection 3
