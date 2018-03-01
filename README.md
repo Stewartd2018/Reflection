@@ -1,4 +1,4 @@
-#Reflection 6
+# Reflection 6
 ## 3/1/2018
 I was only partially here this week, but this week I learned how to work more in putty. I learned about how different things work, like being able to put my google classroom on github. I barely started to learn about XML formatting and how it works with sorting everything in the classroom. We are going to learn more about XML.
 
