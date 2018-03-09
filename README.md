@@ -1,3 +1,10 @@
+
+# Reflection 7
+## 3/9/2018
+This entire week we ended up working on our XML projects. We listed out over 90 animals and learned how to add atrributes using the alligators, quotations, etc.( <asdf asdf="asdf"></asdf>). We mostly worked on this all week. We listed over 90 individual animals and gave them all names and attributes. The XML project ended up being aroung 300 lines of XML code. I enjoyed it, but it was very tedious.
+
+---
+
 # Reflection 6
 ## 3/1/2018
 I was only partially here this week, but this week I learned how to work more in putty. I learned about how different things work, like being able to put my google classroom on github. I barely started to learn about XML formatting and how it works with sorting everything in the classroom. We are going to learn more about XML.
