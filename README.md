@@ -1,3 +1,9 @@
+# Reflection 8
+## 3/16/2018
+This week we learned about HTML. We learned how HTML is a lot like XML. We also learned about how to put in pictures and bullet points into HTML. Through my own study, I learned about how to make radio buttons and submit buttons for my enigma machine. I am excited to learn more about how to make that enigma machine.
+
+
+---
 
 # Reflection 7
 ## 3/9/2018
