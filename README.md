@@ -1,7 +1,12 @@
+# Reflection 9
+## 4/13/2018
+This week we went over CSS. We also started to learn how to bootstrap. We cannot bootstrap right now though because we do not know how to input it. We learned about divs and classes that help us make websites look more professional. We ended up using what we learned to make a website to order pizza.
+
+---
+
 # Reflection 8
 ## 3/16/2018
-This week we learned about HTML. We learned how HTML is a lot like XML. We also learned about how to put in pictures and bullet points into HTML. Through my own study, I learned about how to make radio buttons and submit buttons for my enigma machine. I am excited to learn more about how to make that enigma machine.
-
+This week we learned about HTML. We learned how HTML is a lot like XML. We also learned about how to put in pictures and bullet points into HTML. Through my own study, I learned about how to make radio buttons and submit buttons for my enigma machine. I am excited to learn more about how to make that enigma machine
 
 ---
 
