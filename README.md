@@ -1,3 +1,9 @@
+# Reflection 10
+## 4/20/2018
+This I week I missed a good portion of class this week. I did complete the pizza project though. I learned about background images, but not quite got them to work completly. I learned about the different colors and how all of them arent just words, but numbers as well. I learned more about css and div tags that helped me make my website more mobile friendly.
+
+---
+
 # Reflection 9
 ## 4/13/2018
 This week we went over CSS. We also started to learn how to bootstrap. We cannot bootstrap right now though because we do not know how to input it. We learned about divs and classes that help us make websites look more professional. We ended up using what we learned to make a website to order pizza.
