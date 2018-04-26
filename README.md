@@ -1,3 +1,9 @@
+# Reflection 11
+## 4/26/2018
+This week is a day short but we started to learn about bootstrap. We started to make a profile project. I learned how to take a bootstrap webiste and make it more personalized. I started to make a profile project. In that project we are summarzing our life at saint johns, achievements, etc.
+
+---
+
 # Reflection 10
 ## 4/20/2018
 This I week I missed a good portion of class this week. I did complete the pizza project though. I learned about background images, but not quite got them to work completly. I learned about the different colors and how all of them arent just words, but numbers as well. I learned more about css and div tags that helped me make my website more mobile friendly.
