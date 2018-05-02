@@ -1,3 +1,9 @@
+# Reflection 12
+##5/1/2018
+Today I worked on my profile project because i did not know it was due yesterday. Ill submit it tonight.
+
+---
+
 # Reflection 11
 ## 4/26/2018
 This week is a day short but we started to learn about bootstrap. We started to make a profile project. I learned how to take a bootstrap webiste and make it more personalized. I started to make a profile project. In that project we are summarzing our life at saint johns, achievements, etc.
