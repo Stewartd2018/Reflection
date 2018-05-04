@@ -1,3 +1,21 @@
+# Reflection 15
+##5/4/2018
+I went to w3schools today to try and understand Jquery. I think I need some help. And I forgot to push my reflections this week, so Im gonna do that.
+
+---
+
+# Reflection 14
+##5/3/2018
+Today I read up on Jquery and tried to understand. I took some code from another website to try and make an enigma for my own, but it didnt work, so I deleted it.
+
+---
+
+# Reflection 13
+##5/2/2018
+Today I went to other enigma websites and tried to understand how they work. Ill be honest, I couldnt find much.
+
+---
+
 # Reflection 12
 ##5/1/2018
 Today I worked on my profile project because i did not know it was due yesterday. Ill submit it tonight.
