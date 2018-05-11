@@ -1,3 +1,9 @@
+# Reflection 16
+## 5/11/2018
+This week we learned about Javascript. We learned about how to make alerts appear on a page. We also learned how to make prompts and how to get those prompts to make text appear on a page using variables. We started making a madlibs. We used the promts and variables to make text and you insert a noun, verb, or adjective, and it fills in a space on the screen. I want to make this work for my google friday project but, I need to learn a bit more about this.
+
+---
+
 # Reflection 15
 ## 5/4/2018
 I went to w3schools today to try and understand Jquery. I think I need some help. And I forgot to push my reflections this week, so Im gonna do that.
