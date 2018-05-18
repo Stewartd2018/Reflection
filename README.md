@@ -1,3 +1,9 @@
+# Reflection 17
+## 5/18/2018
+This is the last day of computer fundaments class. In the beginning we first learned about encription and ciphers. Then we started to get into coding on putty with learning how to make files. Then we learned about HTML and how to code it. Then we learned about css and how that can be used to style HTML files. Then finally, we started to learn about javascript and how that is used to creat things that interact on a HTML page. I forgot to mention, we also discussed how to use bootstrap and how to make a website work on mobile screens.
+
+---
+
 # Reflection 16
 ## 5/11/2018
 This week we learned about Javascript. We learned about how to make alerts appear on a page. We also learned how to make prompts and how to get those prompts to make text appear on a page using variables. We started making a madlibs. We used the promts and variables to make text and you insert a noun, verb, or adjective, and it fills in a space on the screen. I want to make this work for my google friday project but, I need to learn a bit more about this.
